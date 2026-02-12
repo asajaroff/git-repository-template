@@ -39,5 +39,5 @@ repos:
       "--verbose",
       # Based on Angular's commit messages
       # https://github.com/angular/angular/blob/main/contributing-docs/commit-message-guidelines.md
-      "--force-scope feat, fix, refactor, tests, build, ci, changelog, docs, perf"
+      "--scopes feat, fix, refactor, tests, build, ci, changelog, docs, perf"
   ]

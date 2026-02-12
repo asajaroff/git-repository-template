@@ -1,0 +1,11 @@
+## [0.0.1] - 2026-02-12
+
+### Added
+
+- README.md with documentation
+- pre-commit hooks
+- cspell.json file for dictionary
+- cliff for auto-changelog generation
+
+[unreleased]: https://github.com/asajaroff/git-repository-template/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/asajaroff/git-repository-template/releases/tag/v0.0.1
