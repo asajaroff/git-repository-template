@@ -1,0 +1,24 @@
+{
+  "files": ["**", ".*/**"],
+  "ignorePaths": [
+    ".git",
+    ".gitignore",
+    "cliff.toml",
+    "CHANGELOG.md",
+    "node_modules",
+    "package-lock.json",
+    ".venv"
+  ],
+  "words": [
+    "Buildx",
+    "venv",
+    "cspell",
+    "foss",
+    "codeql",
+    "cheatsheet",
+    "orhunp",
+    "COMMIT_EDITMSG",
+    "streetsidesoftware",
+    "workdir"
+  ]
+}
